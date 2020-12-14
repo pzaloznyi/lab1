@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="first_fragment_label">Перший фрагмент</string>
+    <string name="second_fragment_label">Другий фрагмент</string>
+    <string name="next">Наступний</string>
+    <string name="previous">Попередній</string>
+    <string name="hello_first_fragment">Павло Залозний</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
